@@ -1,0 +1,2 @@
+Motor Controller=Throttle_Signal,Regen_Signal,Throttle_Switch,Regen_Switch
+Reset=IMD_Status,AMS_Status

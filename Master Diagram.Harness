@@ -1,0 +1,9 @@
+APS=APS2,APS1
+BPT=Rear,Front
+ETB Harness=ETB_INA,ETB_INB,ETB_ENA,ETB_ENB,ETB_PWM
+Motor Controller=Throttle_Signal,Regen_Signal,Throttle_Switch,Regen_Switch
+Paddles=Upshift,Dnshift
+Reset=AMS_Status,IMD_Status
+Susp=RR,FL,RL,FR
+TPS=TPS2,TPS1
+VSS=FL,FR,RL,RR
