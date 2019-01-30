@@ -5,7 +5,7 @@ This is a system level wiring diagram for the UVH20 car. It was made in Altium D
 Please find below the schematics as of December 10, 2018. You can click them for the original image which can be zoomed into if you desire. These images are hosted as an issue: [#1](https://github.com/UVicFH/2019-System-Level-Diagram/issues/1). 
 
 ### Master Wiring
-![https://user-images.githubusercontent.com/22900772/49781056-1de3e980-fcc6-11e8-909b-9cdffa79477f.png](https://user-images.githubusercontent.com/22900772/49781056-1de3e980-fcc6-11e8-909b-9cdffa79477f.png)
+![https://user-images.githubusercontent.com/22900772/51951999-93795580-23eb-11e9-9f15-2e4a385419dc.png](https://user-images.githubusercontent.com/22900772/51951999-93795580-23eb-11e9-9f15-2e4a385419dc.png)
 
 ### ICE
 ![https://user-images.githubusercontent.com/22900772/49781057-1fadad00-fcc6-11e8-8217-708a6271560c.png](https://user-images.githubusercontent.com/22900772/49781057-1fadad00-fcc6-11e8-8217-708a6271560c.png)
