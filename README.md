@@ -10,8 +10,8 @@ Please find below the schematics as of December 10, 2018. You can click them for
 ### ICE
 ![https://user-images.githubusercontent.com/22900772/49781057-1fadad00-fcc6-11e8-8217-708a6271560c.png](https://user-images.githubusercontent.com/22900772/49781057-1fadad00-fcc6-11e8-8217-708a6271560c.png)
 
-### Power Dist
-![https://user-images.githubusercontent.com/22900772/49781061-21777080-fcc6-11e8-81ab-a40e02ed40fd.png](https://user-images.githubusercontent.com/22900772/49781061-21777080-fcc6-11e8-81ab-a40e02ed40fd.png)
+### Power
+![power](https://user-images.githubusercontent.com/45214334/53702078-21b07500-3db8-11e9-869a-444192e5cdbc.PNG)
 
 ### Tractive System
 ![https://user-images.githubusercontent.com/22900772/49781065-23413400-fcc6-11e8-8d1b-f832cf300576.png](https://user-images.githubusercontent.com/22900772/49781065-23413400-fcc6-11e8-8d1b-f832cf300576.png)
